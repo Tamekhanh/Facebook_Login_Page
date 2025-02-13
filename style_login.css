@@ -32,6 +32,10 @@ body {
     overflow: scroll;
 }
 
+input:focus {
+    outline: none;
+}
+
 .logo {
     width: 320px;
     margin-bottom: 16px;
